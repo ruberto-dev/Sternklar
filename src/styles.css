@@ -1,0 +1,260 @@
+/* ---- Farb-Tokens: dunkles Standard-Theme ---- */
+/* Kein Element codiert Farben hart — alles laeuft ueber diese Variablen, */
+/* damit der Rotlicht-Modus vollstaendig greift. */
+:root {
+  --bg: #0b0e1a;
+  --bg-elev: #151a2e;
+  --rand: #262c45;
+  --text: #e8eaf2;
+  --text-dim: #9aa1b8;
+  --akzent: #7aa2ff;
+  --akzent-text: #0b0e1a;
+  --richtig: #4ade80;
+  --falsch: #f87171;
+}
+
+/* ---- Rotlicht-Modus: ausschliesslich Rottoene und Schwarz ---- */
+:root[data-theme='rot'] {
+  --bg: #000000;
+  --bg-elev: #170302;
+  --rand: #3d0b06;
+  --text: #ff2d1a;
+  --text-dim: #a32417;
+  --akzent: #ff2d1a;
+  --akzent-text: #000000;
+  --richtig: #ff2d1a; /* Unterscheidung laeuft im Rotmodus ueber Symbole */
+  --falsch: #8f1409;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg);
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family:
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---- Grundgeruest: Inhalt oben, Tab-Leiste unten ---- */
+.app {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.inhalt {
+  flex: 1;
+  padding: 16px;
+  padding-bottom: calc(72px + env(safe-area-inset-bottom));
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.tabbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  background: var(--bg-elev);
+  border-top: 1px solid var(--rand);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.tabbar a {
+  flex: 1;
+  text-align: center;
+  padding: 14px 4px;
+  color: var(--text-dim);
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.tabbar a.active {
+  color: var(--akzent);
+  font-weight: 600;
+}
+
+/* ---- Bausteine ---- */
+.screen {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.kopf h1 {
+  margin: 8px 0 4px;
+  font-size: 28px;
+}
+
+.kopf p {
+  margin: 0;
+}
+
+h2 {
+  margin: 0 0 4px;
+  font-size: 17px;
+}
+
+.dim {
+  color: var(--text-dim);
+}
+
+.klein {
+  font-size: 13px;
+}
+
+.blockzeile {
+  display: block;
+  margin-top: 2px;
+}
+
+.karte {
+  background: var(--bg-elev);
+  border: 1px solid var(--rand);
+  border-radius: 14px;
+  padding: 16px;
+}
+
+.karte p {
+  margin: 4px 0;
+}
+
+.kartenreihe {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.zahlkarte {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 20px 12px;
+}
+
+.grossezahl {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.hinweis {
+  border-style: dashed;
+}
+
+/* ---- Knoepfe ---- */
+.knopf {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 15px;
+  border-radius: 14px;
+  border: 1px solid var(--rand);
+  background: var(--bg-elev);
+  color: var(--text);
+  font-size: 17px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.knopf.primaer {
+  background: var(--akzent);
+  border-color: var(--akzent);
+  color: var(--akzent-text);
+}
+
+.knopf:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.knopf.gefahr {
+  color: var(--falsch);
+}
+
+.knopfreihe {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.knopfreihe .knopf {
+  font-size: 14px;
+  padding: 11px 8px;
+}
+
+/* ---- Themenliste ---- */
+.themenliste {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.fortschrittsbalken {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--rand);
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+.fortschrittsfuellung {
+  height: 100%;
+  background: var(--akzent);
+  border-radius: 3px;
+}
+
+/* ---- Schalter (Rotlicht) ---- */
+.zeile {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.schalter {
+  flex-shrink: 0;
+  width: 52px;
+  height: 32px;
+  border-radius: 16px;
+  border: 1px solid var(--rand);
+  background: var(--bg);
+  padding: 2px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.schalter .schalterknopf {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--text-dim);
+  transition: transform 0.15s ease;
+}
+
+.schalter.an {
+  background: var(--akzent);
+  border-color: var(--akzent);
+}
+
+.schalter.an .schalterknopf {
+  background: var(--akzent-text);
+  transform: translateX(20px);
+}

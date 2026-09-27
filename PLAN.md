@@ -1,13 +1,13 @@
 # Plan — Sternklar
 
-Stand: 27.09.2026 · Status: **wartet auf Freigabe, noch kein Code**
+Stand: 27.09.2026 · Status: **Phase 0 fertig, Phase 1 (Inhalte) als Nächstes**
 
 Entscheide und Rahmen: [`CLAUDE.md`](CLAUDE.md).
 «Heute am Himmel» wird auf Wunsch von Giuseppe direkt mitgebaut (Phase 4),
 nicht nur architektonisch vorbereitet. Die App lebt auf Wunsch in diesem
 eigenen Repository, getrennt von hytrax.
 
-## Phase 0 — Gerüst
+## Phase 0 — Gerüst ✅ (27.09.2026)
 
 - Vite + React + TypeScript im Repo-Root, striktes tsconfig
 - `vite-plugin-pwa` (Manifest, Service Worker, Precache), App-Icons
