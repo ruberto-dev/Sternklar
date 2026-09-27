@@ -1,11 +1,16 @@
 import { useLiveQuery } from 'dexie-react-hooks'
 import { Link } from 'react-router-dom'
 import { db } from '../db'
-import { heuteISO } from '../lernen/faelligkeit'
+import { ALLE_FRAGEN } from '../inhalt/laden'
+import { stelleSessionZusammen } from '../lernen/session'
 
 export default function Start() {
-  const faellig = useLiveQuery(
-    () => db.fortschritt.where('faelligAm').belowOrEqual(heuteISO()).count(),
+  const sessionGroesse = useLiveQuery(
+    async () => {
+      const eintraege = await db.fortschritt.toArray()
+      const karte = new Map(eintraege.map((e) => [e.frageId, e]))
+      return stelleSessionZusammen(ALLE_FRAGEN, karte).length
+    },
     [],
     0,
   )
@@ -19,7 +24,7 @@ export default function Start() {
 
       <div className="kartenreihe">
         <div className="karte zahlkarte">
-          <span className="grossezahl">{faellig}</span>
+          <span className="grossezahl">{sessionGroesse}</span>
           <span className="dim">heute fällig</span>
         </div>
         <div className="karte zahlkarte">
@@ -28,17 +33,20 @@ export default function Start() {
         </div>
       </div>
 
-      <Link to="/quiz" className="knopf primaer">
-        Session starten
-      </Link>
+      {sessionGroesse > 0 ? (
+        <Link to="/quiz" className="knopf primaer">
+          Session starten
+        </Link>
+      ) : (
+        <div className="karte hinweis">
+          <p>Für heute alles erledigt.</p>
+          <p className="dim">Morgen warten die nächsten Wiederholungen auf dich.</p>
+        </div>
+      )}
 
-      <div className="karte hinweis">
-        <p className="dim">
-          120 Fragen in sechs Themen sind bereit. Die Session-Logik folgt in
-          Phase 2 — danach zählt hier deine tägliche Session mit maximal 20
-          fälligen Fragen.
-        </p>
-      </div>
+      <p className="dim klein zentriert">
+        Fällige Wiederholungen zuerst, dann Neues — maximal 20 Fragen pro Session.
+      </p>
     </div>
   )
 }

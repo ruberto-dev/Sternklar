@@ -1,6 +1,6 @@
 # Plan — Sternklar
 
-Stand: 27.09.2026 · Status: **Phase 1 fertig, Phase 2 (Lernlogik und Quiz) als Nächstes**
+Stand: 27.09.2026 · Status: **Phase 2 fertig, Phase 3 (Screens rundherum) als Nächstes**
 
 Entscheide und Rahmen: [`CLAUDE.md`](CLAUDE.md).
 «Heute am Himmel» wird auf Wunsch von Giuseppe direkt mitgebaut (Phase 4),
@@ -32,7 +32,7 @@ Navigation zwischen leeren Screens funktioniert.
 
 **Abnahme:** `npm run validate` grün über 120 Fragen.
 
-## Phase 2 — Lernlogik und Quiz
+## Phase 2 — Lernlogik und Quiz ✅ (27.09.2026)
 
 - Leitner-Engine als reine Funktionen (Box-Übergänge, Fälligkeit,
   Session-Zusammenstellung max. 20) mit Vitest-Tests

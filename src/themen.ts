@@ -5,6 +5,10 @@ export interface ThemaInfo {
   beschreibung: string
 }
 
+export function themaName(id: string): string {
+  return THEMEN.find((thema) => thema.id === id)?.name ?? id
+}
+
 export const THEMEN: ThemaInfo[] = [
   {
     id: 'sonnensystem',
