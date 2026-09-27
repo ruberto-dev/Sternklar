@@ -1,0 +1,285 @@
+[
+  {
+    "id": "galaxien-kosmologie-001",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Was für ein Typ Galaxie ist die Milchstrasse?",
+    "antworten": [
+      "Eine elliptische Galaxie",
+      "Eine Balkenspiralgalaxie",
+      "Eine irreguläre Galaxie",
+      "Eine Ringgalaxie"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Die Milchstrasse ist eine Spiralgalaxie mit einem zentralen Balken, von dem die Spiralarme ausgehen. Ihre Scheibe misst grob 100'000 Lichtjahre im Durchmesser — je nach Definition der Aussengrenze nennen Studien auch deutlich grössere Werte. Die Sonne sitzt in einem Aussenbezirk, rund 26'000 Lichtjahre vom Zentrum entfernt.",
+    "quelle": "ESA, Gaia-Mission"
+  },
+  {
+    "id": "galaxien-kosmologie-002",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wie viele Sterne enthält die Milchstrasse ungefähr?",
+    "antworten": [
+      "Etwa 1 Million",
+      "Etwa 1 Milliarde",
+      "Etwa 100 bis 400 Milliarden",
+      "Etwa 100 Billionen"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Schätzungen liegen zwischen 100 und 400 Milliarden Sternen — eine genauere Zahl ist schwierig, weil die häufigsten Sterne, die leuchtschwachen Roten Zwerge, kaum vollständig zu zählen sind. Von blossem Auge sichtbar sind davon in einer dunklen Nacht nur wenige tausend.",
+    "quelle": "NASA / ESA"
+  },
+  {
+    "id": "galaxien-kosmologie-003",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Welche ist die nächste grosse Galaxie neben der Milchstrasse?",
+    "antworten": [
+      "Die Andromedagalaxie (M31)",
+      "Der Grosse Magellansche Nebel",
+      "Die Sombrerogalaxie",
+      "Die Whirlpoolgalaxie"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Andromedagalaxie ist rund 2.5 Millionen Lichtjahre entfernt und die nächste grosse Spiralgalaxie. Die Magellanschen Wolken sind zwar näher, aber deutlich kleinere Begleitgalaxien der Milchstrasse — und von der Schweiz aus nicht sichtbar.",
+    "quelle": "NASA/ESA, Hubble"
+  },
+  {
+    "id": "galaxien-kosmologie-004",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Die Andromedagalaxie und die Milchstrasse bewegen sich aufeinander zu.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Andromeda nähert sich der Milchstrasse mit gut 100 km pro Sekunde. Lange galt eine Verschmelzung in rund 4 bis 5 Milliarden Jahren als sicher; neuere Analysen der Seitwärtsbewegung zeigen aber, dass Zeitpunkt und sogar Eintreten weniger gewiss sind als gedacht. Einzelne Sterne würden bei einer solchen Verschmelzung praktisch nie kollidieren — dafür sind die Abstände zu gross.",
+    "quelle": "ESA, Gaia-Mission"
+  },
+  {
+    "id": "galaxien-kosmologie-005",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Welche Haupttypen von Galaxien gibt es?",
+    "antworten": [
+      "Spiralgalaxien (mit oder ohne Balken), elliptische Galaxien und irreguläre Galaxien — geordnet in der sogenannten Hubble-Sequenz."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Spiralgalaxien haben eine rotierende Scheibe mit Armen und bilden laufend neue Sterne. Elliptische Galaxien sind eher strukturlose Sternbälle aus überwiegend alten Sternen. Irreguläre Galaxien passen in keines der Schemata — oft, weil Begegnungen mit Nachbarn sie verformt haben.",
+    "quelle": "ESA/Hubble"
+  },
+  {
+    "id": "galaxien-kosmologie-006",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was befindet sich im Zentrum der Milchstrasse?",
+    "antworten": [
+      "Ein besonders heller Stern",
+      "Ein riesiger Sternhaufen und sonst nichts",
+      "Ein supermassereiches Schwarzes Loch",
+      "Eine grosse Lücke ohne Sterne"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Im galaktischen Zentrum sitzt das supermassereiche Schwarze Loch Sagittarius A* mit rund 4 Millionen Sonnenmassen. Nachgewiesen wurde es über die Bahnen naher Sterne — dafür gab es 2020 den Physik-Nobelpreis; 2022 veröffentlichte das Event Horizon Telescope ein direktes Bild seines Schattens. Solche zentralen Schwarzen Löcher sind in grossen Galaxien die Regel.",
+    "quelle": "Nobelprize.org (2020); EHT Collaboration (2022)"
+  },
+  {
+    "id": "galaxien-kosmologie-007",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wie alt ist das Universum?",
+    "antworten": [
+      "Etwa 4.6 Milliarden Jahre",
+      "Etwa 13.8 Milliarden Jahre",
+      "Etwa 100 Milliarden Jahre",
+      "Etwa 1 Million Jahre"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Aus der kosmischen Hintergrundstrahlung und der Expansionsgeschichte ergibt sich ein Alter von rund 13.8 Milliarden Jahren. Die 4.6 Milliarden Jahre sind das Alter des Sonnensystems — die Sonne ist also ein vergleichsweise später Nachzügler im Universum.",
+    "quelle": "ESA, Planck-Mission"
+  },
+  {
+    "id": "galaxien-kosmologie-008",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Der Urknall war eine Explosion, die sich in einen bereits vorhandenen leeren Raum ausbreitete.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Beim Urknall dehnte sich der Raum selbst aus — es gab kein «Aussen», in das etwas explodiert wäre, und keinen Mittelpunkt der Explosion. Auch heute entfernen sich ferne Galaxien nicht durch Flug im Raum, sondern weil der Raum zwischen ihnen wächst. Die Frage «wo» der Urknall stattfand, führt deshalb in die Irre: überall.",
+    "quelle": "ESA, Planck-Mission"
+  },
+  {
+    "id": "galaxien-kosmologie-009",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Was ist die kosmische Hintergrundstrahlung?",
+    "antworten": [
+      "Das Nachleuchten des heissen frühen Universums: Strahlung, die rund 380'000 Jahre nach dem Urknall freikam und heute als Mikrowellenstrahlung von 2.7 Kelvin aus allen Richtungen eintrifft."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Als das Universum genug abgekühlt war, um neutrale Atome zu bilden, konnte sich das Licht erstmals frei ausbreiten — dieses Licht empfangen wir heute stark gedehnt als Mikrowellen. Entdeckt wurde die Strahlung 1965 zufällig von Penzias und Wilson. Ihre winzigen Temperaturschwankungen sind die Saatkörner der späteren Galaxien.",
+    "quelle": "Nobelprize.org (1978); ESA, Planck-Mission"
+  },
+  {
+    "id": "galaxien-kosmologie-010",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was besagt das Hubble-Lemaître-Gesetz?",
+    "antworten": [
+      "Je weiter eine Galaxie entfernt ist, desto schneller entfernt sie sich von uns",
+      "Alle Galaxien bewegen sich gleich schnell",
+      "Nahe Galaxien fliehen schneller als ferne",
+      "Galaxien bewegen sich grundsätzlich auf uns zu"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Edwin Hubble zeigte 1929 — aufbauend auf Vorarbeiten von Georges Lemaître —, dass die Fluchtgeschwindigkeit von Galaxien proportional zu ihrer Distanz wächst. Gemessen wird das über die Rotverschiebung des Lichts. Dieses Gesetz war der erste direkte Beleg für die Expansion des Universums.",
+    "quelle": "IAU (Umbenennung 2018)"
+  },
+  {
+    "id": "galaxien-kosmologie-011",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Wie gross ist die Hubble-Konstante nach heutigen Messungen?",
+    "antworten": [
+      "Etwa 9.8 km/s/Mpc",
+      "Etwa 67 bis 74 km/s/Mpc",
+      "Etwa 300'000 km/s/Mpc",
+      "Etwa 42 km/s/Mpc"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Je nach Messmethode ergibt sich ein Wert von rund 67 (aus der Hintergrundstrahlung) bis 74 km/s/Mpc (aus Supernovae und Cepheiden). Dass sich die beiden präzisen Messungen widersprechen, heisst «Hubble-Spannung» und ist eines der grossen offenen Probleme der Kosmologie. Pro Megaparsec Distanz wächst die Fluchtgeschwindigkeit also um rund 70 km/s.",
+    "quelle": "ESA Planck; SH0ES-Projekt"
+  },
+  {
+    "id": "galaxien-kosmologie-012",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Dunkle Materie und Dunkle Energie sind zwei Namen für dasselbe Phänomen.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Die beiden sind grundverschieden: Dunkle Materie wirkt anziehend und hält Galaxien und Galaxienhaufen zusammen, Dunkle Energie treibt die beschleunigte Expansion des Universums an. Nach dem Standardmodell macht Dunkle Energie rund 68 Prozent des Energieinhalts aus, Dunkle Materie rund 27 Prozent — und nur etwa 5 Prozent sind gewöhnliche Materie. Was beide physikalisch sind, ist ungeklärt.",
+    "quelle": "ESA, Planck-Mission"
+  },
+  {
+    "id": "galaxien-kosmologie-013",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Welche Beobachtung lieferte einen wichtigen Hinweis auf Dunkle Materie?",
+    "antworten": [
+      "Die Farben der Planeten",
+      "Die Mondphasen",
+      "Sonnenflecken-Zyklen",
+      "Galaxien rotieren aussen viel schneller, als ihre sichtbare Masse erlaubt"
+    ],
+    "korrekt": 3,
+    "erklaerung": "Vera Rubin zeigte in den 1970er-Jahren, dass die Aussenbereiche von Spiralgalaxien fast so schnell rotieren wie die inneren — mit der sichtbaren Masse allein müssten die Galaxien auseinanderfliegen. Schon 1933 hatte Fritz Zwicky bei Galaxienhaufen fehlende Masse festgestellt. Auch Gravitationslinsen bestätigen: Es gibt weit mehr Masse, als wir leuchten sehen.",
+    "quelle": "Carnegie Institution; ESA/Hubble"
+  },
+  {
+    "id": "galaxien-kosmologie-014",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 3,
+    "typ": "karteikarte",
+    "frage": "Was wurde 1998 anhand ferner Supernovae entdeckt?",
+    "antworten": [
+      "Dass sich die Expansion des Universums beschleunigt — als Ursache wird die Dunkle Energie angenommen."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Zwei Teams vermassen Supernovae vom Typ Ia als Distanzmarken und erwarteten eine gebremste Expansion. Stattdessen erschienen die fernen Explosionen zu lichtschwach: Die Expansion legt seit einigen Milliarden Jahren zu. Für diese Entdeckung gab es 2011 den Physik-Nobelpreis.",
+    "quelle": "Nobelprize.org (Physik 2011)"
+  },
+  {
+    "id": "galaxien-kosmologie-015",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist ein Quasar?",
+    "antworten": [
+      "Ein besonders heller Stern in unserer Galaxie",
+      "Der extrem leuchtkräftige Kern einer fernen Galaxie, gespeist von einem supermassereichen Schwarzen Loch",
+      "Ein Planet, der Radiowellen aussendet",
+      "Ein Überrest einer Supernova"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Quasare sind aktive Galaxienkerne: Materie stürzt auf ein supermassereiches Schwarzes Loch und heizt sich in einer Akkretionsscheibe so stark auf, dass der Kern seine ganze Galaxie überstrahlen kann. Weil sie so hell sind, sehen wir Quasare über Milliarden Lichtjahre hinweg — und damit tief in die Vergangenheit des Universums.",
+    "quelle": "ESA/Hubble"
+  },
+  {
+    "id": "galaxien-kosmologie-016",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Die Andromedagalaxie ist unter dunklem Himmel von blossem Auge sichtbar.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Die Andromedagalaxie erscheint unter dunklem Himmel als schwacher, länglicher Nebelfleck — am besten mit indirektem Sehen. Sie ist damit für die meisten Menschen das fernste Objekt, das ohne Hilfsmittel sichtbar ist: Ihr Licht war rund 2.5 Millionen Jahre unterwegs.",
+    "quelle": "NASA/ESA, Hubble"
+  },
+  {
+    "id": "galaxien-kosmologie-017",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 1,
+    "typ": "karteikarte",
+    "frage": "Was ist eine Galaxie?",
+    "antworten": [
+      "Ein durch Gravitation gebundenes System aus Sternen, Gas, Staub und Dunkler Materie — von Zwerggalaxien mit Millionen bis zu Riesen mit Billionen Sternen."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Galaxien sind die Grundbausteine des sichtbaren Universums; das beobachtbare Universum enthält davon nach Schätzungen einige hundert Milliarden bis über eine Billion. Zwischen ihren Sternen liegt das interstellare Medium aus Gas und Staub, und fast alle sind in einen Halo aus Dunkler Materie eingebettet.",
+    "quelle": "NASA / ESA"
+  },
+  {
+    "id": "galaxien-kosmologie-018",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Was ist die Lokale Gruppe?",
+    "antworten": [
+      "Der Galaxienhaufen aus über 80 Galaxien, zu dem die Milchstrasse gehört",
+      "Die Sterne in der Nachbarschaft der Sonne",
+      "Die Monde des Jupiter",
+      "Ein Sternhaufen in der Milchstrasse"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Lokale Gruppe umfasst mehr als 80 bekannte Galaxien in einem Bereich von rund 10 Millionen Lichtjahren — laufend werden weitere lichtschwache Zwerggalaxien entdeckt. Dominiert wird sie von den beiden grossen Spiralen Milchstrasse und Andromeda, um die sich jeweils Dutzende Begleiter scharen.",
+    "quelle": "NASA / ESA"
+  },
+  {
+    "id": "galaxien-kosmologie-019",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Welchen Durchmesser hat das beobachtbare Universum?",
+    "antworten": [
+      "13.8 Milliarden Lichtjahre",
+      "27.6 Milliarden Lichtjahre",
+      "Rund 93 Milliarden Lichtjahre",
+      "Rund 1 Billion Lichtjahre"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Obwohl das Licht höchstens 13.8 Milliarden Jahre unterwegs sein konnte, hat sich der Raum währenddessen weiter ausgedehnt: Die Regionen, deren frühes Licht wir heute empfangen, sind inzwischen rund 46.5 Milliarden Lichtjahre entfernt — der Durchmesser beträgt also etwa 93 Milliarden Lichtjahre. Wie gross das gesamte Universum ist, wissen wir nicht; es könnte unendlich sein.",
+    "quelle": "ESA, Planck-Mission"
+  },
+  {
+    "id": "galaxien-kosmologie-020",
+    "thema": "galaxien-kosmologie",
+    "schwierigkeit": 3,
+    "typ": "wahr-falsch",
+    "frage": "Wenn wir ferne Galaxien beobachten, sehen wir sie so, wie sie vor langer Zeit waren.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Licht braucht Zeit: Von der Andromedagalaxie ist es 2.5 Millionen Jahre unterwegs, von fernen Quasaren Milliarden Jahre. Jeder Blick in die Tiefe des Alls ist damit ein Blick in die Vergangenheit. Genau das machen sich Teleskope wie das James-Webb-Teleskop zunutze, um die ersten Galaxien nach dem Urknall zu untersuchen.",
+    "quelle": "NASA, James Webb Space Telescope"
+  }
+]

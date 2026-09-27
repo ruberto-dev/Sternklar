@@ -1,6 +1,6 @@
 # Plan — Sternklar
 
-Stand: 27.09.2026 · Status: **Phase 0 fertig, Phase 1 (Inhalte) als Nächstes**
+Stand: 27.09.2026 · Status: **Phase 1 fertig, Phase 2 (Lernlogik und Quiz) als Nächstes**
 
 Entscheide und Rahmen: [`CLAUDE.md`](CLAUDE.md).
 «Heute am Himmel» wird auf Wunsch von Giuseppe direkt mitgebaut (Phase 4),
@@ -21,7 +21,7 @@ eigenen Repository, getrennt von hytrax.
 **Abnahme:** App startet lokal, ist dunkel, Rotlicht-Modus schaltbar,
 Navigation zwischen leeren Screens funktioniert.
 
-## Phase 1 — Inhalte
+## Phase 1 — Inhalte ✅ (27.09.2026)
 
 - Content-Schema als TypeScript-Typ + `scripts/validate-content.ts`
   (Pflichtfelder, Wertebereiche, doppelte IDs über alle Dateien)

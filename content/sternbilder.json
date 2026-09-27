@@ -1,0 +1,255 @@
+[
+  {
+    "id": "sternbilder-001",
+    "thema": "sternbilder",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wie viele offizielle Sternbilder gibt es?",
+    "antworten": ["48", "88", "100", "12"],
+    "korrekt": 1,
+    "erklaerung": "Die IAU legte 1922 genau 88 Sternbilder fest; 1930 wurden ihre Grenzen exakt definiert, sodass jeder Punkt des Himmels zu genau einem Sternbild gehört. Die 48 antiken Sternbilder des Ptolemäus sind darin fast alle enthalten.",
+    "quelle": "IAU, The Constellations"
+  },
+  {
+    "id": "sternbilder-002",
+    "thema": "sternbilder",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Welcher Stern steht fast genau am Himmelsnordpol?",
+    "antworten": ["Sirius", "Wega", "Der Polarstern", "Beteigeuze"],
+    "korrekt": 2,
+    "erklaerung": "Der Polarstern (Polaris) im Kleinen Bären steht weniger als ein Grad vom Himmelsnordpol entfernt. Der ganze Himmel scheint sich um ihn zu drehen, und er zeigt immer fast exakt nach Norden. Entgegen einem verbreiteten Irrtum ist er nicht der hellste Stern des Himmels, sondern nur mittelhell.",
+    "quelle": "IAU"
+  },
+  {
+    "id": "sternbilder-003",
+    "thema": "sternbilder",
+    "schwierigkeit": 1,
+    "typ": "karteikarte",
+    "frage": "Wie findest du den Polarstern am Himmel?",
+    "antworten": [
+      "Die hinteren beiden Kastensterne des Grossen Wagens (Merak und Dubhe) verbinden und die Strecke etwa fünfmal verlängern — dort steht der Polarstern."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Der Grosse Wagen ist von der Schweiz aus das ganze Jahr über sichtbar und damit der zuverlässigste Wegweiser. Die Verlängerungslinie der beiden hinteren Kastensterne führt direkt zum Polarstern, dem hellsten Stern des Kleinen Wagens. Wer ihn gefunden hat, kennt die Nordrichtung.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "sternbilder-004",
+    "thema": "sternbilder",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Der Grosse Wagen ist ein offizielles Sternbild.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Der Grosse Wagen ist nur ein Asterismus — eine auffällige Sterngruppe ohne offiziellen Status. Er bildet den hellsten Teil des deutlich grösseren Sternbilds Grosse Bärin (Ursa Major). Auch das Sommerdreieck oder das Wintersechseck sind solche inoffiziellen Figuren.",
+    "quelle": "IAU, The Constellations"
+  },
+  {
+    "id": "sternbilder-005",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Welche drei Sterne bilden das Sommerdreieck?",
+    "antworten": [
+      "Wega, Deneb und Atair",
+      "Sirius, Prokyon und Beteigeuze",
+      "Arktur, Spica und Regulus",
+      "Polarstern, Wega und Sirius"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Das Sommerdreieck besteht aus Wega (Leier), Deneb (Schwan) und Atair (Adler) und steht in Sommernächten hoch am Himmel. Es ist ein idealer Ausgangspunkt, um die Sommersternbilder kennenzulernen. Sirius, Prokyon und Beteigeuze bilden dagegen das Winterdreieck.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "sternbilder-006",
+    "thema": "sternbilder",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Welches Wintersternbild erkennt man an drei markanten Gürtelsternen in einer Reihe?",
+    "antworten": ["Stier", "Orion", "Zwillinge", "Grosser Hund"],
+    "korrekt": 1,
+    "erklaerung": "Die drei fast gleich hellen Gürtelsterne des Orion sind am Winterhimmel unverwechselbar. Um sie herum stehen die helle bläuliche Rigel und die rötliche Beteigeuze. Unterhalb des Gürtels hängt das Schwertgehänge mit dem Orionnebel, einem Sternentstehungsgebiet.",
+    "quelle": "IAU"
+  },
+  {
+    "id": "sternbilder-007",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Wie hoch über dem Horizont steht der Polarstern — und was hat das mit deinem Standort zu tun?",
+    "antworten": [
+      "Seine Höhe entspricht der geografischen Breite des Standorts. In der Ostschweiz steht er also rund 47 Grad hoch."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Am Nordpol stünde der Polarstern im Zenit (90 Grad), am Äquator genau am Horizont (0 Grad). Dieser Zusammenhang machte ihn jahrhundertelang zum wichtigsten Navigationsstern der Seefahrt: Die Polhöhe verrät direkt die eigene Breite.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "sternbilder-008",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Die Sterne eines Sternbilds sind im Raum tatsächlich benachbart.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Sternbilder sind reine Projektionen an die Himmelskugel: Ihre Sterne können Hunderte Lichtjahre voneinander entfernt sein und haben physisch meist nichts miteinander zu tun. Im Orion etwa ist Beteigeuze mehrere hundert Lichtjahre von uns entfernt, Rigel nochmals deutlich weiter. Von einem anderen Ort der Galaxie aus ergäben sich völlig andere Figuren.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sternbilder-009",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist die Ekliptik?",
+    "antworten": [
+      "Die Verbindungslinie zwischen den Himmelspolen",
+      "Die scheinbare Jahresbahn der Sonne am Himmel",
+      "Der hellste Teil der Milchstrasse",
+      "Die Bahn des Mondes um die Erde"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Die Ekliptik ist die Linie, entlang derer die Sonne im Jahreslauf durch die Sternbilder wandert — sie entspricht der Ebene der Erdbahn. Weil auch die Planetenbahnen fast in dieser Ebene liegen, findet man Planeten am Himmel stets in der Nähe der Ekliptik. Der Name kommt von den Finsternissen (Eklipsen), die nur nahe dieser Linie stattfinden.",
+    "quelle": "IAU"
+  },
+  {
+    "id": "sternbilder-010",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Durch welches «dreizehnte» Sternbild läuft die Sonne, das im klassischen Tierkreis fehlt?",
+    "antworten": ["Fuhrmann", "Walfisch", "Adler", "Schlangenträger"],
+    "korrekt": 3,
+    "erklaerung": "Nach den offiziellen IAU-Grenzen durchquert die Sonne 13 Sternbilder — neben den zwölf klassischen Tierkreisbildern auch den Schlangenträger (Ophiuchus), und zwar jeweils von Ende November bis Mitte Dezember. Die zwölf gleich grossen «Sternzeichen» der Astrologie haben mit den tatsächlichen Sternbildgrenzen nichts zu tun.",
+    "quelle": "IAU, The Constellations"
+  },
+  {
+    "id": "sternbilder-011",
+    "thema": "sternbilder",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Welcher ist der hellste Stern am Nachthimmel?",
+    "antworten": ["Sirius", "Der Polarstern", "Wega", "Beteigeuze"],
+    "korrekt": 0,
+    "erklaerung": "Sirius im Grossen Hund ist mit einer scheinbaren Helligkeit von −1.5 mag der hellste Stern des Nachthimmels. Er ist nur 8.6 Lichtjahre entfernt und funkelt tief am Winterhimmel oft auffällig in allen Farben. Der Polarstern ist dagegen nur mittelhell — wichtig ist er wegen seiner Position, nicht wegen seiner Helligkeit.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sternbilder-012",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was bedeutet es, wenn ein Sternbild «zirkumpolar» ist?",
+    "antworten": [
+      "Es steht genau am Himmelsäquator",
+      "Es ist nur im Winter sichtbar",
+      "Es geht von diesem Standort aus nie unter",
+      "Es enthält den Polarstern"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Zirkumpolare Sternbilder kreisen so nah um den Himmelspol, dass sie vom jeweiligen Standort aus nie unter den Horizont sinken — sie sind in jeder klaren Nacht sichtbar. Von der Schweiz aus gilt das etwa für den Grossen Wagen, Kassiopeia und den Kleinen Bären. Je nördlicher man steht, desto grösser wird dieser Bereich.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "sternbilder-013",
+    "thema": "sternbilder",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Kassiopeia erkennt man an ihrer W-Form.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Die fünf hellsten Sterne der Kassiopeia bilden ein markantes W — je nach Stellung am Himmel auch ein M. Das Sternbild liegt gegenüber dem Grossen Wagen auf der anderen Seite des Polarsterns und ist von der Schweiz aus zirkumpolar. In der Mythologie ist Kassiopeia eine eitle äthiopische Königin.",
+    "quelle": "IAU"
+  },
+  {
+    "id": "sternbilder-014",
+    "thema": "sternbilder",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Warum war der Polarstern nicht immer der Polstern?",
+    "antworten": [
+      "Weil er sich schnell durch die Galaxie bewegt",
+      "Weil die Erdachse wie ein Kreisel langsam ihre Richtung ändert",
+      "Weil er früher viel schwächer leuchtete",
+      "Weil sich die Kontinente verschieben"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Die Erdachse vollführt eine Kreiselbewegung, die Präzession, mit einer Periode von rund 25'800 Jahren. Der Himmelspol wandert dadurch langsam durch die Sternbilder: Zur Zeit der ägyptischen Pyramiden war Thuban im Drachen der Polstern, in etwa 12'000 Jahren wird es die helle Wega sein.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "sternbilder-015",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Wie funktioniert die Helligkeitsskala der Astronomie (Magnituden)?",
+    "antworten": [
+      "Je kleiner die Zahl, desto heller: Sirius hat −1.5 mag, mit blossem Auge sieht man bis etwa 6 mag. Fünf Magnituden Unterschied bedeuten einen Faktor 100 in der Helligkeit."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Skala geht auf die Antike zurück, als man Sterne in sechs Grössenklassen einteilte — daher wirken helle Objekte mit kleinen oder negativen Zahlen zunächst verwirrend. Die Skala ist logarithmisch: Eine Magnitude entspricht einem Helligkeitsfaktor von rund 2.5. Die Venus erreicht −4.5 mag, der Vollmond etwa −12.7 mag.",
+    "quelle": "IAU"
+  },
+  {
+    "id": "sternbilder-016",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Zu welchem hellen Stern führt die verlängerte Deichsel des Grossen Wagens?",
+    "antworten": ["Sirius", "Wega", "Arktur", "Prokyon"],
+    "korrekt": 2,
+    "erklaerung": "Folgt man dem Schwung der Wagendeichsel in einem Bogen weiter, trifft man auf den orangen Arktur im Bärenhüter — den hellsten Stern des Nordfrühlingshimmels. Verlängert man den Bogen noch weiter, erreicht man die bläuliche Spica in der Jungfrau. Solche Sternhüpfer sind die klassische Methode, sich am Himmel zu orientieren.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "sternbilder-017",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Von der Schweiz aus kann man das Kreuz des Südens sehen.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Das Kreuz des Südens steht so weit südlich am Himmel, dass es vollständig nur etwa südlich des 27. nördlichen Breitengrads sichtbar wird. Von der Schweiz auf rund 47 Grad Nord bleibt es immer unter dem Horizont. Umgekehrt sehen Beobachter auf der Südhalbkugel den Polarstern nie.",
+    "quelle": "IAU"
+  },
+  {
+    "id": "sternbilder-018",
+    "thema": "sternbilder",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "In welcher Jahreszeit zeigt sich das Band der Milchstrasse bei uns am eindrücklichsten?",
+    "antworten": ["Im Frühling", "Im Sommer", "Nur im Winter", "Es ist immer gleich"],
+    "korrekt": 1,
+    "erklaerung": "In Sommernächten blicken wir Richtung Schütze — dort liegt das Zentrum der Milchstrasse, wo ihr Band am hellsten und strukturreichsten erscheint. Im Winter schauen wir in die entgegengesetzte, sternärmere Richtung. Voraussetzung ist ein dunkler Himmel ohne Mondlicht und Lichtverschmutzung.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sternbilder-019",
+    "thema": "sternbilder",
+    "schwierigkeit": 3,
+    "typ": "karteikarte",
+    "frage": "Wie schnell dreht sich der Sternenhimmel scheinbar — und warum?",
+    "antworten": [
+      "Um 15 Grad pro Stunde, eine volle Drehung in rund 24 Stunden — verursacht durch die Erdrotation, gedreht wird scheinbar um die Himmelspole."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Weil sich die Erde einmal pro Tag um ihre Achse dreht, scheint der ganze Himmel um die Himmelspole zu rotieren. 15 Grad pro Stunde entsprechen etwa 30 Vollmonddurchmessern. Genau genommen dauert eine Runde relativ zu den Sternen nur 23 Stunden und 56 Minuten — deshalb geht jeder Stern pro Tag rund 4 Minuten früher auf.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "sternbilder-020",
+    "thema": "sternbilder",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was sind die Plejaden?",
+    "antworten": [
+      "Ein offener Sternhaufen im Sternbild Stier",
+      "Ein Sternbild am Südhimmel",
+      "Eine kleine Galaxie",
+      "Ein Doppelsternsystem"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Plejaden — auch Siebengestirn genannt — sind ein junger offener Sternhaufen in rund 440 Lichtjahren Distanz. Von blossem Auge erkennt man je nach Bedingungen sechs bis neun Sterne, im Feldstecher Dutzende. Sie sind ein schöner Test für die Himmelsqualität und die eigene Sehschärfe.",
+    "quelle": "ESO"
+  }
+]

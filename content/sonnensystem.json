@@ -1,0 +1,265 @@
+[
+  {
+    "id": "sonnensystem-001",
+    "thema": "sonnensystem",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wie viele Planeten hat unser Sonnensystem?",
+    "antworten": ["7", "8", "9", "10"],
+    "korrekt": 1,
+    "erklaerung": "Seit der Neudefinition durch die Internationale Astronomische Union (IAU) im Jahr 2006 zählt das Sonnensystem acht Planeten. Pluto gilt seither als Zwergplanet, weil er seine Bahnumgebung nicht von anderen Körpern bereinigt hat.",
+    "quelle": "IAU, Resolution B5 (2006)"
+  },
+  {
+    "id": "sonnensystem-002",
+    "thema": "sonnensystem",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Welcher ist der grösste Planet des Sonnensystems?",
+    "antworten": ["Saturn", "Jupiter", "Neptun", "Erde"],
+    "korrekt": 1,
+    "erklaerung": "Jupiter hat rund den elffachen Durchmesser der Erde und mehr als doppelt so viel Masse wie alle anderen Planeten zusammen. Er ist ein Gasriese, der überwiegend aus Wasserstoff und Helium besteht.",
+    "quelle": "NASA, Solar System Exploration"
+  },
+  {
+    "id": "sonnensystem-003",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist eine Astronomische Einheit (AE)?",
+    "antworten": [
+      "Die Distanz zwischen Erde und Mond",
+      "Die mittlere Distanz zwischen Erde und Sonne",
+      "Die Distanz zwischen Sonne und Neptun",
+      "Die Strecke, die das Licht in einem Jahr zurücklegt"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Die Astronomische Einheit entspricht der mittleren Distanz zwischen Erde und Sonne, rund 150 Millionen Kilometer. Die IAU hat sie 2012 exakt auf 149'597'870.7 km festgelegt. Sie ist das praktische Distanzmass innerhalb des Sonnensystems.",
+    "quelle": "IAU, Resolution B2 (2012)"
+  },
+  {
+    "id": "sonnensystem-004",
+    "thema": "sonnensystem",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Die Sonne ist ein Stern.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Die Sonne ist ein gewöhnlicher Stern der Spektralklasse G2 und befindet sich mitten in ihrer stabilen Phase des Wasserstoffbrennens. Sie erscheint uns nur deshalb so überwältigend hell, weil sie rund 270'000-mal näher ist als der nächste Stern.",
+    "quelle": "NASA, Solar System Exploration"
+  },
+  {
+    "id": "sonnensystem-005",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Welcher Planet hat die höchste Oberflächentemperatur?",
+    "antworten": ["Merkur", "Venus", "Mars", "Jupiter"],
+    "korrekt": 1,
+    "erklaerung": "Auf der Venus herrschen an der Oberfläche rund 465 °C — heisser als auf dem sonnennäheren Merkur. Grund ist ihre dichte Kohlendioxid-Atmosphäre, die einen extremen Treibhauseffekt erzeugt. Der Druck am Boden ist etwa 90-mal höher als auf der Erde.",
+    "quelle": "ESA, Venus Express"
+  },
+  {
+    "id": "sonnensystem-006",
+    "thema": "sonnensystem",
+    "schwierigkeit": 1,
+    "typ": "karteikarte",
+    "frage": "Nenne die acht Planeten in der Reihenfolge von der Sonne aus.",
+    "antworten": [
+      "Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die vier inneren Planeten (Merkur bis Mars) sind kleine Gesteinsplaneten, die vier äusseren (Jupiter bis Neptun) Gas- beziehungsweise Eisriesen. Ein bekannter Merksatz dafür ist: «Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.»",
+    "quelle": "NASA, Solar System Exploration"
+  },
+  {
+    "id": "sonnensystem-007",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist der Grosse Rote Fleck?",
+    "antworten": [
+      "Ein Vulkan auf dem Mars",
+      "Ein riesiger Sturm auf Jupiter",
+      "Ein Krater auf dem Mond",
+      "Ein Sonnenfleck"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Der Grosse Rote Fleck ist ein gewaltiger Wirbelsturm in der Jupiteratmosphäre, grösser als die Erde. Er wird seit dem 19. Jahrhundert durchgehend beobachtet, möglicherweise existiert er schon deutlich länger. In den letzten Jahrzehnten ist er messbar geschrumpft.",
+    "quelle": "NASA/JPL, Juno-Mission"
+  },
+  {
+    "id": "sonnensystem-008",
+    "thema": "sonnensystem",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Der Asteroidengürtel liegt zwischen den Bahnen von Mars und Jupiter.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Der Asteroidengürtel erstreckt sich grob zwischen 2.1 und 3.3 AE Sonnendistanz, also zwischen Mars- und Jupiterbahn. Sein grösstes Objekt ist der Zwergplanet Ceres mit rund 950 km Durchmesser. Die Gesamtmasse aller Asteroiden ist deutlich kleiner als die des Mondes.",
+    "quelle": "NASA/JPL, Dawn-Mission"
+  },
+  {
+    "id": "sonnensystem-009",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Woraus bestehen die Ringe des Saturn hauptsächlich?",
+    "antworten": [
+      "Aus Gesteinsstaub",
+      "Aus Brocken von Wassereis",
+      "Aus Gas",
+      "Aus Metalltrümmern"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Die Saturnringe bestehen zum allergrössten Teil aus Wassereis, von staubkorn- bis hausgrossen Brocken, mit einem kleinen Anteil Gestein. Trotz ihres Durchmessers von über 270'000 km sind sie meist nur wenige Dutzend Meter dick.",
+    "quelle": "NASA/JPL, Cassini-Mission"
+  },
+  {
+    "id": "sonnensystem-010",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Was ist ein Zwergplanet?",
+    "antworten": [
+      "Ein Körper, der die Sonne umkreist und rund ist, aber seine Bahnumgebung nicht von anderen Objekten bereinigt hat — zum Beispiel Pluto, Ceres oder Eris."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die IAU definierte die Klasse 2006: Ein Zwergplanet hat genug Masse, um durch die eigene Schwerkraft rund zu sein, dominiert aber seine Bahnregion nicht. Genau an diesem dritten Kriterium scheitert Pluto, der seine Bahn mit vielen Kuipergürtel-Objekten teilt.",
+    "quelle": "IAU, Resolution B5 (2006)"
+  },
+  {
+    "id": "sonnensystem-011",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Wo liegt der Kuipergürtel?",
+    "antworten": [
+      "Zwischen Mars und Jupiter",
+      "Innerhalb der Merkurbahn",
+      "Jenseits der Neptunbahn",
+      "Um den Saturn"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Der Kuipergürtel ist eine ringförmige Zone eisiger Körper, die sich etwa von 30 bis 50 AE Sonnendistanz erstreckt, also jenseits der Neptunbahn. Pluto ist sein bekanntestes Objekt. Von hier stammen viele kurzperiodische Kometen.",
+    "quelle": "NASA, New-Horizons-Mission"
+  },
+  {
+    "id": "sonnensystem-012",
+    "thema": "sonnensystem",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Was ist die Oortsche Wolke?",
+    "antworten": [
+      "Eine vermutete, kugelförmige Hülle aus eisigen Körpern weit ausserhalb der Planetenbahnen",
+      "Eine Gaswolke zwischen Erde und Mars",
+      "Der Staubschweif eines Kometen",
+      "Eine Wolkenschicht in der Jupiteratmosphäre"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Oortsche Wolke ist eine hypothetische, kugelschalenförmige Ansammlung eisiger Körper, die das Sonnensystem umgibt — grob von 2'000 bis über 100'000 AE, wobei die Ausdehnung unsicher ist. Sie gilt als Ursprung der langperiodischen Kometen. Direkt beobachtet wurde sie bisher nicht.",
+    "quelle": "NASA, Solar System Exploration"
+  },
+  {
+    "id": "sonnensystem-013",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Der Mond entfernt sich jedes Jahr um knapp 4 cm von der Erde.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Laserreflektoren der Apollo-Missionen erlauben zentimetergenaue Distanzmessungen: Der Mond entfernt sich pro Jahr um rund 3.8 cm. Ursache ist die Gezeitenreibung, die Drehimpuls von der Erdrotation auf die Mondbahn überträgt. Die Erdtage werden dadurch ganz allmählich länger.",
+    "quelle": "NASA, Lunar Laser Ranging"
+  },
+  {
+    "id": "sonnensystem-014",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Warum sehen wir von der Erde aus immer dieselbe Seite des Mondes?",
+    "antworten": [
+      "Weil der Mond sich gar nicht dreht",
+      "Weil die Rückseite dunkel ist",
+      "Weil der Mond für eine Drehung gleich lang braucht wie für einen Erdumlauf",
+      "Weil die Erdatmosphäre die Sicht verzerrt"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Der Mond befindet sich in gebundener Rotation: Er dreht sich in rund 27.3 Tagen genau einmal um die eigene Achse — gleich lang, wie er für einen Umlauf um die Erde braucht. Diese Kopplung entstand über Jahrmilliarden durch Gezeitenkräfte. Eine «ewig dunkle» Seite gibt es nicht: Auch die Rückseite wird regelmässig von der Sonne beschienen.",
+    "quelle": "NASA, Solar System Exploration"
+  },
+  {
+    "id": "sonnensystem-015",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Was ist der Unterschied zwischen einer Sonnenfinsternis und einer Mondfinsternis?",
+    "antworten": [
+      "Sonnenfinsternis: Der Mond steht zwischen Sonne und Erde und verdeckt die Sonne (nur bei Neumond). Mondfinsternis: Die Erde steht zwischen Sonne und Mond, der Mond taucht in den Erdschatten (nur bei Vollmond)."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Weil die Mondbahn gegen die Erdbahn geneigt ist, gibt es nicht bei jedem Neu- und Vollmond eine Finsternis. Eine totale Sonnenfinsternis ist nur von einem schmalen Streifen der Erde aus sichtbar, eine Mondfinsternis dagegen von der gesamten Nachtseite.",
+    "quelle": "NASA, Eclipse Website"
+  },
+  {
+    "id": "sonnensystem-016",
+    "thema": "sonnensystem",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Welcher Mond ist der vulkanisch aktivste Körper des Sonnensystems?",
+    "antworten": ["Europa", "Titan", "Io", "Triton"],
+    "korrekt": 2,
+    "erklaerung": "Der Jupitermond Io hat Hunderte aktive Vulkane, die Schwefelverbindungen bis in Hunderte Kilometer Höhe schleudern. Die Energie dafür liefern Gezeitenkräfte: Jupiter und die Nachbarmonde kneten Io regelrecht durch. Damit ist Io vulkanisch aktiver als die Erde.",
+    "quelle": "NASA/JPL, Galileo- und Juno-Mission"
+  },
+  {
+    "id": "sonnensystem-017",
+    "thema": "sonnensystem",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Auf dem Mars steht der höchste Vulkan des Sonnensystems.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Olympus Mons auf dem Mars ragt rund 22 km über sein Umland — etwa zweieinhalbmal so hoch wie der Mount Everest. Er konnte so gewaltig werden, weil der Mars keine Plattentektonik hat: Die Kruste blieb über dem Hotspot stehen, und der Vulkan wuchs über Jahrmilliarden an derselben Stelle.",
+    "quelle": "NASA/JPL, Mars Global Surveyor"
+  },
+  {
+    "id": "sonnensystem-018",
+    "thema": "sonnensystem",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Was verursacht die Jahreszeiten auf der Erde?",
+    "antworten": [
+      "Der wechselnde Abstand der Erde zur Sonne",
+      "Die Neigung der Erdachse",
+      "Schwankungen der Sonnenhelligkeit",
+      "Die Anziehungskraft des Mondes"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Die Erdachse ist um rund 23.4° gegen die Bahnebene geneigt, deshalb bekommt im Jahresverlauf mal die Nord-, mal die Südhalbkugel steiler stehende Sonne und längere Tage. Der Abstand zur Sonne spielt kaum eine Rolle — die Erde ist im Januar der Sonne sogar am nächsten, wenn bei uns Winter ist.",
+    "quelle": "NASA, Earth Observatory"
+  },
+  {
+    "id": "sonnensystem-019",
+    "thema": "sonnensystem",
+    "schwierigkeit": 3,
+    "typ": "karteikarte",
+    "frage": "Was versteht man unter der habitablen Zone?",
+    "antworten": [
+      "Der Abstandsbereich um einen Stern, in dem auf einem Planeten mit geeigneter Atmosphäre flüssiges Wasser an der Oberfläche möglich ist. Im Sonnensystem reicht sie je nach Modell etwa von 0.95 bis 1.4 AE."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Grenzen hängen von der Leuchtkraft des Sterns und von Annahmen über die Atmosphäre ab, deshalb geben verschiedene Modelle unterschiedliche Bereiche an. Die Erde liegt in der habitablen Zone der Sonne, Venus und Mars an oder ausserhalb ihrer Ränder. «Habitabel» heisst dabei nur: Flüssiges Wasser ist prinzipiell möglich — nicht, dass dort Leben existiert.",
+    "quelle": "NASA, Exoplanet Exploration"
+  },
+  {
+    "id": "sonnensystem-020",
+    "thema": "sonnensystem",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Wie lange dauert ein Merkurjahr, also ein Umlauf Merkurs um die Sonne?",
+    "antworten": ["88 Tage", "225 Tage", "365 Tage", "687 Tage"],
+    "korrekt": 0,
+    "erklaerung": "Merkur umrundet die Sonne in nur 88 Erdtagen — schneller als jeder andere Planet. Kurios: Wegen seiner langsamen Rotation (eine Drehung in 58.6 Tagen, im 3:2-Takt zum Umlauf) dauert ein Sonnentag auf Merkur rund 176 Erdtage, also zwei Merkurjahre. 225 Tage wären übrigens das Venusjahr, 687 das Marsjahr.",
+    "quelle": "NASA, MESSENGER-Mission"
+  }
+]

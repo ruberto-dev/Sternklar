@@ -34,8 +34,9 @@ export default function Start() {
 
       <div className="karte hinweis">
         <p className="dim">
-          Die Fragen kommen in Phase 1 — danach zählt hier deine tägliche
-          Session mit maximal 20 fälligen Fragen.
+          120 Fragen in sechs Themen sind bereit. Die Session-Logik folgt in
+          Phase 2 — danach zählt hier deine tägliche Session mit maximal 20
+          fälligen Fragen.
         </p>
       </div>
     </div>

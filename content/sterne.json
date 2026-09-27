@@ -1,0 +1,270 @@
+[
+  {
+    "id": "sterne-001",
+    "thema": "sterne",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Welcher Stern ist der Sonne am nächsten?",
+    "antworten": ["Sirius", "Alpha Centauri A", "Proxima Centauri", "Barnards Stern"],
+    "korrekt": 2,
+    "erklaerung": "Proxima Centauri ist mit rund 4.2 Lichtjahren der sonnennächste Stern. Er ist ein leuchtschwacher Roter Zwerg und gehört zum Dreifachsystem Alpha Centauri, dessen Hauptsterne etwas weiter entfernt sind. Von blossem Auge ist Proxima nicht sichtbar.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-002",
+    "thema": "sterne",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Woher bezieht die Sonne ihre Energie?",
+    "antworten": [
+      "Aus der Verbrennung von Gas",
+      "Aus der Kernfusion von Wasserstoff zu Helium",
+      "Aus Kernspaltung wie in einem Kraftwerk",
+      "Aus dem langsamen Zusammenziehen unter der eigenen Schwerkraft"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Im Kern der Sonne verschmelzen bei rund 15 Millionen Grad Wasserstoffkerne zu Helium. Die dabei frei werdende Energie entspricht pro Sekunde der Umwandlung von etwa 4 Millionen Tonnen Masse in Strahlung. Chemische Verbrennung könnte die Sonne nur wenige tausend Jahre leuchten lassen.",
+    "quelle": "NASA, Solar Science"
+  },
+  {
+    "id": "sterne-003",
+    "thema": "sterne",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Sterne funkeln, weil ihre Helligkeit tatsächlich schwankt.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Das Funkeln (Szintillation) entsteht in der Erdatmosphäre: Turbulente Luftschichten lenken das Sternlicht ständig minimal ab. Vom Weltraum aus leuchten dieselben Sterne völlig ruhig. Planeten funkeln kaum, weil sie kleine Scheibchen statt Lichtpunkte sind und sich die Störungen ausmitteln.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-004",
+    "thema": "sterne",
+    "schwierigkeit": 1,
+    "typ": "karteikarte",
+    "frage": "Was ist ein Lichtjahr?",
+    "antworten": [
+      "Die Strecke, die das Licht in einem Jahr zurücklegt: rund 9.5 Billionen Kilometer."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Das Lichtjahr ist ein Distanzmass, kein Zeitmass. Licht legt pro Sekunde knapp 300'000 km zurück, in einem Jahr ergibt das etwa 9.46 Billionen Kilometer. Der nächste Stern ist gut 4 Lichtjahre entfernt — sein Licht war also über vier Jahre zu uns unterwegs.",
+    "quelle": "IAU"
+  },
+  {
+    "id": "sterne-005",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Welche Sternfarbe gehört zur höchsten Oberflächentemperatur?",
+    "antworten": ["Rot", "Gelb", "Weiss", "Blau"],
+    "korrekt": 3,
+    "erklaerung": "Die Farbe eines Sterns verrät seine Oberflächentemperatur: Blaue Sterne sind mit über 10'000 bis mehr als 30'000 Kelvin am heissesten, rote mit rund 2'500 bis 3'500 Kelvin am kühlsten. Die gelbliche Sonne liegt mit etwa 5'800 Kelvin dazwischen — anders als beim Wasserhahn steht Blau hier für heiss.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-006",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was zeigt das Hertzsprung-Russell-Diagramm?",
+    "antworten": [
+      "Die Leuchtkraft von Sternen aufgetragen gegen ihre Oberflächentemperatur",
+      "Die Position der Sterne am Himmel",
+      "Die Distanz der Sterne zur Erde",
+      "Die chemische Zusammensetzung von Planeten"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Im Hertzsprung-Russell-Diagramm wird die Leuchtkraft gegen die Oberflächentemperatur (bzw. den Spektraltyp) aufgetragen. Die meisten Sterne liegen auf der diagonalen Hauptreihe, wo sie Wasserstoff fusionieren. Riesen und Weisse Zwerge besetzen eigene Bereiche — das Diagramm ist damit das zentrale Werkzeug, um Sternentwicklung zu verstehen.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-007",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Die Sonne wird ihr Leben als Supernova beenden.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Für eine Supernova ist die Sonne zu massearm — dafür braucht ein Stern grob die achtfache Sonnenmasse. Die Sonne wird sich stattdessen in etwa 5 bis 6 Milliarden Jahren zum Roten Riesen aufblähen, ihre Hülle als planetarischen Nebel abstossen und als Weisser Zwerg langsam auskühlen.",
+    "quelle": "ESA/Hubble"
+  },
+  {
+    "id": "sterne-008",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Wie lauten die Spektralklassen der Sterne, und wo steht die Sonne?",
+    "antworten": [
+      "O, B, A, F, G, K, M — von heiss (blau) nach kühl (rot). Die Sonne ist ein G2-Stern."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Reihenfolge O-B-A-F-G-K-M sortiert Sterne nach absteigender Oberflächentemperatur. Ein klassischer englischer Merksatz ist «Oh Be A Fine Girl/Guy, Kiss Me». Jede Klasse wird mit Ziffern 0 bis 9 verfeinert; die Sonne als G2-Stern gehört zu den gelblichen, mittelheissen Sternen.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-009",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist ein Weisser Zwerg?",
+    "antworten": [
+      "Ein besonders kleiner, junger Stern",
+      "Ein Planet ohne Atmosphäre",
+      "Der ausgebrannte, etwa erdgrosse Rest eines sonnenähnlichen Sterns",
+      "Ein Stern, der nur weisses Licht abstrahlt"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Ein Weisser Zwerg ist der freigelegte Kern eines Sterns, der seine Hülle abgestossen hat: etwa so gross wie die Erde, aber mit rund der halben bis ganzen Sonnenmasse. Ein Teelöffel seiner Materie wöge mehrere Tonnen. Er erzeugt keine Fusionsenergie mehr und kühlt über Jahrmilliarden aus.",
+    "quelle": "ESA/Hubble"
+  },
+  {
+    "id": "sterne-010",
+    "thema": "sterne",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Bei welcher Masse liegt die Chandrasekhar-Grenze für Weisse Zwerge?",
+    "antworten": ["0.5 Sonnenmassen", "1.4 Sonnenmassen", "3 Sonnenmassen", "8 Sonnenmassen"],
+    "korrekt": 1,
+    "erklaerung": "Oberhalb von rund 1.4 Sonnenmassen kann der Entartungsdruck der Elektronen einen Weissen Zwerg nicht mehr stabilisieren — er kollabiert. Überschreitet ein Weisser Zwerg diese Grenze, etwa durch Materie von einem Begleitstern, explodiert er als Supernova vom Typ Ia. Berechnet hat die Grenze Subrahmanyan Chandrasekhar 1930.",
+    "quelle": "Nobelprize.org (Physik 1983)"
+  },
+  {
+    "id": "sterne-011",
+    "thema": "sterne",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Beteigeuze im Orion ist ein Roter Überriese.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Beteigeuze, die auffällig rötliche Schulter des Orion, ist ein Roter Überriese — an der Stelle der Sonne würde er bis etwa zur Jupiterbahn reichen. Seine Distanz ist erstaunlich unsicher: Die Messungen streuen grob zwischen 500 und 650 Lichtjahren. Er wird in astronomisch naher Zukunft als Supernova explodieren — das kann morgen sein oder erst in 100'000 Jahren.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-012",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Wie gross ist ein Neutronenstern ungefähr?",
+    "antworten": [
+      "So gross wie die Erde",
+      "So gross wie eine Stadt — 20 bis 30 km Durchmesser",
+      "So gross wie der Mond",
+      "So gross wie die Sonne"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Ein Neutronenstern presst typischerweise rund 1.4 Sonnenmassen in eine Kugel von nur 20 bis 30 km Durchmesser. Seine Materie ist so dicht wie ein Atomkern: Ein Würfelzucker davon wöge auf der Erde etwa eine Milliarde Tonnen. Neutronensterne entstehen beim Kernkollaps massereicher Sterne.",
+    "quelle": "NASA, NICER-Mission"
+  },
+  {
+    "id": "sterne-013",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist ein Pulsar?",
+    "antworten": [
+      "Ein schnell rotierender Neutronenstern, dessen Strahlenkegel uns regelmässig überstreicht",
+      "Ein Stern, der rhythmisch grösser und kleiner wird",
+      "Ein Doppelstern mit Finsternissen",
+      "Ein Planet mit starkem Magnetfeld"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Pulsare sind Neutronensterne, die gebündelte Strahlung entlang ihrer Magnetachse aussenden. Rotiert der Stern, streicht der Kegel wie ein Leuchtturmstrahl über die Erde — wir empfangen präzise Pulse, teils Hunderte pro Sekunde. Entdeckt wurden sie 1967 von Jocelyn Bell Burnell.",
+    "quelle": "Royal Astronomical Society"
+  },
+  {
+    "id": "sterne-014",
+    "thema": "sterne",
+    "schwierigkeit": 3,
+    "typ": "karteikarte",
+    "frage": "Wie entsteht ein Schwarzes Loch stellarer Masse?",
+    "antworten": [
+      "Beim Kernkollaps eines sehr massereichen Sterns am Ende seines Lebens: Wenn der ausgebrannte Kern zu schwer ist, um als Neutronenstern stabil zu bleiben, stürzt er vollständig in sich zusammen."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Als Faustregel braucht es dafür Sterne mit grob 20 oder mehr Sonnenmassen Anfangsmasse; die genaue Grenze ist Gegenstand der Forschung. Übersteigt der kollabierende Kern etwa 2 bis 3 Sonnenmassen, kann keine bekannte Kraft den Kollaps stoppen. Zurück bleibt ein Objekt, dessen Gravitation selbst Licht nicht mehr entkommen lässt.",
+    "quelle": "LIGO/Virgo Collaboration"
+  },
+  {
+    "id": "sterne-015",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Kugelsternhaufen bestehen überwiegend aus sehr alten Sternen.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Kugelsternhaufen sind dichte Kugeln aus Hunderttausenden Sternen, die das Zentrum ihrer Galaxie umkreisen. Ihre Sterne sind meist 10 bis 13 Milliarden Jahre alt und gehören damit zu den ältesten der Milchstrasse. Neue Sterne entstehen dort praktisch keine mehr, weil das Gas dafür fehlt.",
+    "quelle": "ESA/Hubble"
+  },
+  {
+    "id": "sterne-016",
+    "thema": "sterne",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wo entstehen neue Sterne?",
+    "antworten": [
+      "In den Ringen von Gasplaneten",
+      "Im Zentrum von Schwarzen Löchern",
+      "In den Atmosphären alter Sterne",
+      "In kalten, dichten Wolken aus Gas und Staub"
+    ],
+    "korrekt": 3,
+    "erklaerung": "Sterne entstehen, wenn Teile kalter Molekülwolken unter der eigenen Schwerkraft kollabieren und sich dabei aufheizen, bis die Kernfusion zündet. Ein bekanntes Sternentstehungsgebiet ist der Orionnebel, der schon im Feldstecher als nebliger Fleck sichtbar ist. Meist entstehen Sterne nicht einzeln, sondern in ganzen Gruppen.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-017",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Was ist die Hauptreihe?",
+    "antworten": [
+      "Die Lebensphase, in der ein Stern stabil Wasserstoff zu Helium fusioniert — sie macht rund 90 Prozent seines Lebens aus. Die Sonne ist seit etwa 4.6 Milliarden Jahren ein Hauptreihenstern."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Im Hertzsprung-Russell-Diagramm bilden Hauptreihensterne das diagonale Band von heiss-leuchtkräftig bis kühl-leuchtschwach. Wo ein Stern auf der Hauptreihe sitzt und wie lange er dort bleibt, bestimmt fast allein seine Masse. Erst wenn der Wasserstoff im Kern zur Neige geht, verlässt er die Hauptreihe und bläht sich zum Riesen auf.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-018",
+    "thema": "sterne",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Warum leben massereiche Sterne kürzer als massearme?",
+    "antworten": [
+      "Weil sie weniger Brennstoff haben",
+      "Weil sie ihren Brennstoff überproportional schnell verbrauchen",
+      "Weil sie von Planeten gestört werden",
+      "Weil sie schneller rotieren"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Ein Stern mit doppelter Sonnenmasse hat zwar doppelt so viel Brennstoff, strahlt aber rund zehnmal heller — die Leuchtkraft wächst etwa mit der dritten bis vierten Potenz der Masse. Massereiche O-Sterne leben deshalb nur wenige Millionen Jahre, während Rote Zwerge theoretisch Billionen Jahre durchhalten — länger, als das Universum bisher alt ist.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "sterne-019",
+    "thema": "sterne",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist vom hellen Stern übrig, den chinesische Astronomen im Jahr 1054 aufleuchten sahen?",
+    "antworten": [
+      "Nichts — er verschwand spurlos",
+      "Ein Weisser Zwerg",
+      "Der Krebsnebel mit einem Pulsar im Zentrum",
+      "Ein neuer Doppelstern"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Die Supernova von 1054 war monatelang sogar am Taghimmel sichtbar. An ihrer Stelle steht heute der Krebsnebel im Sternbild Stier: die auseinanderfliegende Sternhülle mit einem Pulsar im Zentrum, der etwa 30-mal pro Sekunde rotiert. Er ist das Paradebeispiel eines Supernova-Überrests.",
+    "quelle": "NASA/ESA, Hubble"
+  },
+  {
+    "id": "sterne-020",
+    "thema": "sterne",
+    "schwierigkeit": 3,
+    "typ": "wahr-falsch",
+    "frage": "Schwere Elemente wie Gold entstehen unter anderem bei der Verschmelzung von Neutronensternen.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "2017 beobachteten Astronomen erstmals Gravitationswellen und Licht derselben Neutronenstern-Verschmelzung (GW170817). Im Nachglühen fanden sich die Signaturen frisch erzeugter schwerer Elemente wie Gold und Platin. Solche Kollisionen gelten seither neben Supernovae als wichtige Quelle der schwersten Elemente.",
+    "quelle": "LIGO/Virgo Collaboration (2017)"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "id": "beobachtung-001",
+    "thema": "beobachtung",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wie lange brauchen die Augen, bis sie vollständig an die Dunkelheit angepasst sind?",
+    "antworten": [
+      "1 bis 2 Minuten",
+      "Etwa 5 Minuten",
+      "Rund 20 bis 45 Minuten",
+      "Mehrere Stunden"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Die volle Dunkeladaption der lichtempfindlichen Stäbchen dauert rund 20 bis 45 Minuten. Ein einziger Blick in eine helle weisse Lampe oder aufs Handy macht sie in Sekunden zunichte. Rotes Licht stört die Anpassung dagegen kaum — deshalb der Rotlicht-Modus dieser App.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-002",
+    "thema": "beobachtung",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Bei Vollmond sieht man die Milchstrasse am besten.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Der Vollmond hellt den ganzen Himmel so stark auf, dass schwache Objekte wie das Milchstrassenband verschwinden. Für Deep-Sky-Beobachtungen sind die Nächte um Neumond ideal. Ein heller Mond ist dagegen selbst ein lohnendes Beobachtungsziel.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-003",
+    "thema": "beobachtung",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Welches Instrument eignet sich am besten für den Einstieg in die Himmelsbeobachtung?",
+    "antworten": [
+      "Ein möglichst starkes Teleskop",
+      "Ein Feldstecher, etwa 7x50 oder 10x50",
+      "Eine Spiegelreflexkamera",
+      "Ein Mikroskop"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Ein Feldstecher ist günstig, sofort einsatzbereit und zeigt bereits Mondkrater, Jupitermonde, Sternhaufen und die Andromedagalaxie. Sein grosses Gesichtsfeld erleichtert das Auffinden enorm — genau daran scheitern Anfänger mit dem Teleskop am häufigsten. Wer den Himmel mit dem Feldstecher kennt, hat später auch mit dem Teleskop mehr Freude.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-004",
+    "thema": "beobachtung",
+    "schwierigkeit": 1,
+    "typ": "karteikarte",
+    "frage": "Was bedeutet die Angabe «10x50» bei einem Feldstecher?",
+    "antworten": [
+      "10-fache Vergrösserung, 50 Millimeter Objektivdurchmesser."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die erste Zahl ist die Vergrösserung, die zweite der Durchmesser der Frontlinsen in Millimetern. Mehr Öffnung sammelt mehr Licht und zeigt schwächere Sterne. Ab etwa 10-facher Vergrösserung wird das Bild aus der freien Hand allerdings merklich zittrig — dann hilft Aufstützen oder ein Stativ.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-005",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Welche Kenngrösse eines Teleskops ist am wichtigsten?",
+    "antworten": [
+      "Die Öffnung (der Durchmesser von Objektiv oder Spiegel)",
+      "Die maximale Vergrösserung",
+      "Die Länge des Tubus",
+      "Das Gewicht"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Öffnung bestimmt, wie viel Licht das Teleskop sammelt und wie feine Details es auflösen kann — beides lässt sich durch nichts ersetzen. Eine hohe Vergrösserung nützt ohne genügend Öffnung nichts: Sie liefert nur ein grosses, dunkles und verwaschenes Bild. Werbung mit «600-facher Vergrösserung» ist deshalb ein Warnsignal.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-006",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist ein Newton-Teleskop?",
+    "antworten": [
+      "Ein Linsenteleskop",
+      "Ein Spiegelteleskop mit Hauptspiegel und kleinem Fangspiegel",
+      "Ein Radioteleskop",
+      "Ein Teleskop nur für Sonnenbeobachtung"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Beim Newton-Teleskop sammelt ein gewölbter Hauptspiegel das Licht und ein kleiner Fangspiegel lenkt es seitlich zum Okular. Spiegel sind pro Zentimeter Öffnung deutlich günstiger als Linsen, weshalb Newtons viel Öffnung fürs Geld bieten. Linsenteleskope heissen dagegen Refraktoren.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-007",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Je stärker die Vergrösserung, desto besser das Bild im Teleskop.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Als Faustregel liegt die sinnvolle Maximalvergrösserung beim 1.5- bis 2-Fachen der Öffnung in Millimetern — ein 100-mm-Teleskop schafft also nützlich etwa 150- bis 200-fach. Darüber wird das Bild nur grösser, aber dunkler und unschärfer. Meist begrenzt ohnehin die Luftunruhe (Seeing) die brauchbare Vergrösserung auf 150- bis 250-fach.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-008",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Was ist das «Seeing»?",
+    "antworten": [
+      "Die Luftunruhe der Atmosphäre: Turbulente Luftschichten lassen das Bild im Teleskop wabern und begrenzen, wie feine Details sichtbar sind."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Auch in klaren Nächten kann das Seeing schlecht sein — starkes Funkeln der Sterne ist ein Warnzeichen. Gutes Seeing gibt es oft in ruhigen, dunstigen Nächten oder nach Mitternacht, wenn Böden und Dächer ihre Tageswärme abgegeben haben. Deshalb stehen Sternwarten bevorzugt auf hohen Bergen mit ruhiger Luftströmung.",
+    "quelle": "ESO"
+  },
+  {
+    "id": "beobachtung-009",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was beschreibt die Bortle-Skala?",
+    "antworten": [
+      "Die Helligkeit von Kometen",
+      "Die Qualität von Teleskopoptiken",
+      "Die Dunkelheit des Nachthimmels von 1 (exzellent) bis 9 (Innenstadt)",
+      "Die Stärke des Sonnenwinds"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Die Bortle-Skala stuft die Lichtverschmutzung eines Standorts von Klasse 1 (perfekt dunkel) bis 9 (Innenstadthimmel) ein. Im Schweizer Mittelland liegt man meist um Klasse 5 bis 6; wirklich dunkle Standorte finden sich eher in den Alpen. Schon der Wechsel an einen dunkleren Ort bringt für schwache Objekte mehr als jedes grössere Teleskop.",
+    "quelle": "Sky & Telescope (Bortle 2001)"
+  },
+  {
+    "id": "beobachtung-010",
+    "thema": "beobachtung",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Woran erkennt man von blossem Auge einen Planeten am Nachthimmel?",
+    "antworten": [
+      "Planeten funkeln kaum und verschieben sich über Wochen gegenüber den Sternen",
+      "Planeten sind immer farbig",
+      "Planeten blinken regelmässig",
+      "Planeten stehen immer im Norden"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Helle Planeten leuchten meist ruhig, während Sterne funkeln — Planetenscheibchen mitteln die Luftunruhe aus. Zudem wandern Planeten im Lauf von Wochen erkennbar durch die Sternbilder, immer in der Nähe der Ekliptik. Venus und Jupiter sind zudem heller als jeder Stern.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-011",
+    "thema": "beobachtung",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Die Internationale Raumstation ISS ist von blossem Auge sichtbar.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Die ISS erscheint als sehr heller, ruhig ziehender Lichtpunkt, der in wenigen Minuten über den Himmel wandert — oft heller als jeder Stern. Sichtbar ist sie in der Dämmerung, wenn sie hoch fliegt und noch von der Sonne beschienen wird. Überflugzeiten liefern Apps und Webdienste auf die Minute genau.",
+    "quelle": "NASA, Spot the Station"
+  },
+  {
+    "id": "beobachtung-012",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Wie berechnet sich die Vergrösserung eines Teleskops?",
+    "antworten": [
+      "Brennweite des Teleskops geteilt durch Brennweite des Okulars. Beispiel: 900 mm Teleskop mit 10-mm-Okular ergibt 90-fache Vergrösserung."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Die Vergrösserung ist also keine feste Eigenschaft des Teleskops, sondern hängt vom eingesetzten Okular ab. Mit zwei, drei Okularen deckt man den nützlichen Bereich ab: schwach vergrössernd zum Aufsuchen, mittel für Sternhaufen, stark für Mond und Planeten.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-013",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was ist mit «indirektem Sehen» gemeint?",
+    "antworten": [
+      "Den Himmel über einen Spiegel betrachten",
+      "Ein schwaches Objekt knapp neben dem Blickzentrum betrachten statt direkt",
+      "Mit beiden Augen abwechselnd schauen",
+      "Durch halb geschlossene Augen blinzeln"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Die lichtempfindlichsten Sehzellen, die Stäbchen, sitzen ausserhalb der Netzhautmitte. Schaut man knapp an einem schwachen Nebel oder Sternhaufen vorbei, erscheint er deutlich klarer, als wenn man ihn fixiert. Dieser Trick gehört zum Standardrepertoire jeder Deep-Sky-Beobachtung.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-014",
+    "thema": "beobachtung",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Bis zu welcher Magnitude sieht man Sterne unter dunklem Himmel von blossem Auge?",
+    "antworten": ["Etwa 3 mag", "Etwa 4.5 mag", "Etwa 6 bis 6.5 mag", "Etwa 10 mag"],
+    "korrekt": 2,
+    "erklaerung": "Unter richtig dunklem Landhimmel liegt die Grenzgrösse bei etwa 6 bis 6.5 mag, bei aussergewöhnlichen Bedingungen und geübtem Auge etwas tiefer. In einer hell beleuchteten Stadt bleiben dagegen oft nur Sterne bis 3 oder 4 mag übrig — von einigen tausend sichtbaren Sternen bleiben ein paar Dutzend.",
+    "quelle": "Sky & Telescope"
+  },
+  {
+    "id": "beobachtung-015",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Die Perseiden erreichen ihr Maximum jeweils Mitte August.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Die Perseiden sind der bekannteste Meteorstrom des Jahres und haben ihr Maximum um den 12./13. August mit theoretisch bis zu 100 Meteoren pro Stunde unter Idealbedingungen. Sie entstehen, wenn die Erde die Staubspur des Kometen Swift-Tuttle kreuzt. Am besten beobachtet man nach Mitternacht, mit blossem Auge und viel Geduld.",
+    "quelle": "International Meteor Organization"
+  },
+  {
+    "id": "beobachtung-016",
+    "thema": "beobachtung",
+    "schwierigkeit": 3,
+    "typ": "karteikarte",
+    "frage": "Was ist eine parallaktische (äquatoriale) Montierung?",
+    "antworten": [
+      "Eine Teleskopmontierung, deren eine Achse parallel zur Erdachse ausgerichtet wird — so genügt die Drehung um diese eine Achse, um die Himmelsdrehung auszugleichen."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Zum Einrichten richtet man die Stundenachse auf den Himmelspol nahe dem Polarstern aus. Danach lässt sich jedes Objekt mit einer einzigen, gleichmässigen Bewegung — von Hand oder per Motor — verfolgen. Die einfachere azimutale Montierung schwenkt dagegen nur horizontal und vertikal, was fürs visuelle Beobachten aber völlig genügt.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-017",
+    "thema": "beobachtung",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wann lohnt sich die Mondbeobachtung am meisten?",
+    "antworten": [
+      "Bei Vollmond",
+      "Bei Neumond",
+      "Um Halbmond, entlang der Licht-Schatten-Grenze",
+      "Nur bei Mondfinsternissen"
+    ],
+    "korrekt": 2,
+    "erklaerung": "An der Licht-Schatten-Grenze, dem Terminator, fällt das Sonnenlicht flach ein und wirft lange Schatten — Krater und Berge treten dann plastisch hervor. Bei Vollmond steht die Sonne senkrecht über der Mondlandschaft, das Bild wirkt flach und blendet stark. Schon ein Feldstecher zeigt am Terminator beeindruckende Details.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-018",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Wie beobachtet man die Sonne gefahrlos?",
+    "antworten": [
+      "Durch eine dunkle Sonnenbrille",
+      "Nur mit einem zertifizierten Sonnenfilter vor der Teleskop- oder Feldstecheröffnung",
+      "Kurz hinschauen schadet nicht",
+      "Durch berusstes Glas"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Ohne geeigneten Filter verursacht der Blick durch ein Teleskop in die Sonne in Sekundenbruchteilen bleibende Augenschäden. Sicher sind nur zertifizierte Objektivfilter (z. B. nach ISO 12312-2), die vor der Öffnung sitzen — niemals Filter am Okular, sie können zerspringen. Sonnenbrillen und Russglas sind keine Option; alternativ projiziert man das Sonnenbild auf einen Schirm.",
+    "quelle": "ESA / ISO 12312-2"
+  },
+  {
+    "id": "beobachtung-019",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Himmelsobjekte stehen am höchsten, wenn sie genau im Süden stehen.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Beim Durchgang durch den Meridian — die Nord-Süd-Linie am Himmel — erreicht ein Objekt seine grösste Höhe; das nennt man Kulmination. Je höher ein Objekt steht, desto weniger Luftmasse durchquert sein Licht, desto ruhiger und kontrastreicher das Bild. Die Beobachtung plant man deshalb möglichst um die Kulmination herum.",
+    "quelle": "Royal Museums Greenwich"
+  },
+  {
+    "id": "beobachtung-020",
+    "thema": "beobachtung",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Was bedeutet es, wenn ein Planet «in Opposition» steht?",
+    "antworten": [
+      "Er steht von der Erde aus gesehen der Sonne genau gegenüber: Er geht bei Sonnenuntergang auf, ist die ganze Nacht sichtbar und der Erde besonders nah — die beste Beobachtungszeit für äussere Planeten."
+    ],
+    "korrekt": 0,
+    "erklaerung": "In Opposition ist ein äusserer Planet am hellsten und erscheint im Teleskop am grössten. Mars-Oppositionen gibt es etwa alle 26 Monate, Jupiter und Saturn stehen jedes Jahr rund einen Monat später in Opposition. Innere Planeten wie Venus können nie in Opposition stehen — sie entfernen sich am Himmel nie weit von der Sonne.",
+    "quelle": "NASA, Solar System Exploration"
+  }
+]

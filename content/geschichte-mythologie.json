@@ -1,0 +1,260 @@
+[
+  {
+    "id": "geschichte-mythologie-001",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wer veröffentlichte 1543 das heliozentrische Weltbild, in dem die Erde um die Sonne kreist?",
+    "antworten": ["Galileo Galilei", "Nikolaus Kopernikus", "Johannes Kepler", "Isaac Newton"],
+    "korrekt": 1,
+    "erklaerung": "Kopernikus stellte in «De revolutionibus orbium coelestium» (1543) die Sonne ins Zentrum und degradierte die Erde zu einem Planeten unter mehreren. Die Idee selbst ist älter — schon Aristarch von Samos vertrat sie in der Antike —, aber erst Kopernikus arbeitete sie mathematisch aus. Durchgesetzt hat sie sich erst Jahrzehnte später mit Kepler und Galilei.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-002",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wer richtete 1609 als einer der Ersten ein Fernrohr auf den Himmel?",
+    "antworten": ["Isaac Newton", "Tycho Brahe", "Galileo Galilei", "Edmond Halley"],
+    "korrekt": 2,
+    "erklaerung": "Galilei entdeckte mit seinem selbstgebauten Fernrohr die vier grossen Jupitermonde, die Berge und Krater des Mondes und die Phasen der Venus. Seine Beobachtungen, 1610 im «Sidereus Nuncius» veröffentlicht, stützten das kopernikanische Weltbild: Die Jupitermonde bewiesen, dass nicht alles um die Erde kreist.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-003",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Galilei hat das Teleskop erfunden.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Das Fernrohr wurde 1608 in den Niederlanden erfunden; als Erster meldete der Brillenmacher Hans Lipperhey ein Patent an. Galilei erfuhr davon, baute das Gerät nach, verbesserte es deutlich — und war einer der Ersten, die es systematisch auf den Himmel richteten. Seine Leistung liegt in der Anwendung und Deutung, nicht in der Erfindung.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-004",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Was besagt das erste Keplersche Gesetz?",
+    "antworten": [
+      "Die Planeten bewegen sich auf Ellipsen, in deren einem Brennpunkt die Sonne steht",
+      "Alle Planeten bewegen sich auf perfekten Kreisen",
+      "Die Erde ist der Mittelpunkt der Planetenbahnen",
+      "Planeten bewegen sich überall gleich schnell"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Kepler brach 1609 mit dem jahrtausendealten Dogma der Kreisbahnen: Die Bahnen sind Ellipsen mit der Sonne in einem Brennpunkt. Grundlage waren die präzisen Beobachtungen Tycho Brahes, vor allem der widerspenstigen Marsbahn. Das zweite Gesetz beschreibt die variable Bahngeschwindigkeit, das dritte verknüpft Umlaufzeit und Bahngrösse.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-005",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Welche Bedeutung hat Newtons «Principia» von 1687 für die Astronomie?",
+    "antworten": [
+      "Newton zeigte mit seinem Gravitationsgesetz, dass dieselbe Kraft den Apfel fallen lässt und die Planeten auf ihren Bahnen hält — Himmels- und Erdmechanik wurden eine einzige Physik."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Aus dem Gravitationsgesetz liessen sich die Keplerschen Gesetze mathematisch herleiten, die bis dahin reine Beschreibungen waren. Damit wurden Planetenbahnen, Gezeiten und Kometen berechenbar. Edmond Halley nutzte die neue Theorie umgehend und sagte die Wiederkehr «seines» Kometen korrekt voraus.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-006",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Welche Kultur hinterliess die frühesten erhaltenen systematischen Himmelsbeobachtungen?",
+    "antworten": ["Die Römer", "Die Wikinger", "Die Inka", "Die Babylonier"],
+    "korrekt": 3,
+    "erklaerung": "Babylonische Astronomen zeichneten über Jahrhunderte Planetenpositionen und Finsternisse auf Keilschrifttafeln auf — die Venus-Beobachtungen reichen bis ins 2. Jahrtausend v. Chr. zurück. Sie erkannten Zyklen wie den Saros-Zyklus zur Finsternisvorhersage. Ihr Zwölferschema des Tierkreises und die Einteilung des Kreises in 360 Grad wirken bis heute nach.",
+    "quelle": "British Museum"
+  },
+  {
+    "id": "geschichte-mythologie-007",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wer ist Orion in der griechischen Mythologie?",
+    "antworten": [
+      "Ein riesenhafter Jäger",
+      "Ein Meeresgott",
+      "Ein geflügeltes Pferd",
+      "Ein König von Troja"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Orion war in der griechischen Sage ein gewaltiger Jäger, der nach vielen Varianten des Mythos am Stich eines Skorpions starb. Beide wurden an den Himmel versetzt — auf entgegengesetzte Seiten: Geht der Skorpion auf, versinkt Orion unter dem Horizont. So «flieht» der Jäger noch heute vor seinem Widersacher.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-008",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 1,
+    "typ": "karteikarte",
+    "frage": "Wer sind die Plejaden in der griechischen Mythologie?",
+    "antworten": [
+      "Die sieben Töchter des Titanen Atlas und der Pleione, die als Sterngruppe an den Himmel versetzt wurden — daher der Name «Siebengestirn»."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Fast jede Kultur hat dem auffälligen Sternhaufen eine eigene Geschichte gegeben: In Japan heisst er Subaru — daher Name und Logo des Autoherstellers. Dass viele Überlieferungen von sieben Schwestern sprechen, obwohl heute meist nur sechs Sterne leicht sichtbar sind, gibt bis heute Stoff für Spekulationen über einen einst helleren siebten Stern.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-009",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Der Name «Milchstrasse» geht auf die Milch der Göttin Hera zurück.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Nach dem griechischen Mythos verspritzte Hera ihre Milch über den Himmel, als sie den kleinen Herakles von der Brust stiess — daraus wurde die Milchstrasse. Das griechische «galaxias kyklos» (Milchkreis) steckt bis heute im Wort «Galaxie». Erst Galilei zeigte mit dem Fernrohr, dass das milchige Band aus unzähligen Sternen besteht.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-010",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Worauf ist die Hauptachse von Stonehenge ausgerichtet?",
+    "antworten": [
+      "Auf den Polarstern",
+      "Auf den Aufgangspunkt des Vollmonds",
+      "Auf die Sonnenwenden",
+      "Auf die Venus"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Die Achse von Stonehenge zielt auf den Sonnenaufgang zur Sommersonnenwende — in der Gegenrichtung auf den Sonnenuntergang zur Wintersonnenwende. Die Anlage entstand in mehreren Phasen zwischen etwa 3000 und 2000 v. Chr. Wie sie genau genutzt wurde, ist nicht überliefert; die Sonnwend-Ausrichtung selbst ist aber eindeutig.",
+    "quelle": "English Heritage"
+  },
+  {
+    "id": "geschichte-mythologie-011",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Was ist der Antikythera-Mechanismus?",
+    "antworten": [
+      "Ein römisches Navigationsgerät für die Seefahrt",
+      "Ein antikes griechisches Zahnradgerät zur Berechnung von Himmelszyklen",
+      "Eine ägyptische Sonnenuhr",
+      "Ein mittelalterliches Astrolabium"
+    ],
+    "korrekt": 1,
+    "erklaerung": "Der um das 2. Jahrhundert v. Chr. gebaute Mechanismus wurde 1901 in einem Schiffswrack bei der Insel Antikythera gefunden. Mit Dutzenden Bronzezahnrädern bildete er Mond- und Sonnenzyklen nach und konnte Finsternisse vorhersagen. Vergleichbar komplexe Getriebe tauchen in Europa erst wieder mit den astronomischen Uhren des Spätmittelalters auf.",
+    "quelle": "Nature (Freeth et al.)"
+  },
+  {
+    "id": "geschichte-mythologie-012",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Das geozentrische Weltbild des Ptolemäus prägte die Astronomie über tausend Jahre lang.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Ptolemäus fasste im 2. Jahrhundert das antike Wissen im «Almagest» zusammen: Die Erde ruht im Zentrum, die Planeten laufen auf kunstvollen Epizykel-Bahnen. Das Modell sagte Planetenpositionen erstaunlich genau voraus und blieb deshalb bis zu Kopernikus, Kepler und Galilei das massgebende Weltbild — in Europa wie in der islamischen Welt.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-013",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Wer entdeckte 1781 den Planeten Uranus?",
+    "antworten": ["Johannes Kepler", "Urbain Le Verrier", "Caroline Herschel", "Wilhelm Herschel"],
+    "korrekt": 3,
+    "erklaerung": "Wilhelm Herschel fand Uranus mit einem selbstgebauten Spiegelteleskop von seinem Garten in Bath aus — zunächst hielt er das Objekt für einen Kometen. Es war der erste Planet, der seit der Antike neu entdeckt wurde; er verdoppelte den Radius des bekannten Sonnensystems auf einen Schlag. Seine Schwester Caroline wurde selbst eine bedeutende Astronomin und Kometenentdeckerin.",
+    "quelle": "Royal Astronomical Society"
+  },
+  {
+    "id": "geschichte-mythologie-014",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 3,
+    "typ": "multiple-choice",
+    "frage": "Was ist das Besondere an der Entdeckung des Neptun 1846?",
+    "antworten": [
+      "Seine Position wurde vorher aus Bahnstörungen des Uranus berechnet",
+      "Er wurde von blossem Auge entdeckt",
+      "Er wurde zufällig auf Fotoplatten gefunden",
+      "Eine Raumsonde entdeckte ihn"
+    ],
+    "korrekt": 0,
+    "erklaerung": "Uranus wich beharrlich von seiner berechneten Bahn ab, also musste ein unbekannter Planet an ihm ziehen. Urbain Le Verrier berechnete dessen Position; Johann Galle fand Neptun noch am Abend des Eintreffens des Briefs weniger als ein Grad von der Vorhersage entfernt. In England hatte John Adams ähnliche Rechnungen angestellt — die Entdeckung gilt als Triumph der Himmelsmechanik «mit der Federspitze».",
+    "quelle": "Paris Observatory"
+  },
+  {
+    "id": "geschichte-mythologie-015",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "karteikarte",
+    "frage": "Was bewies Edwin Hubble 1923/24 mit Beobachtungen im Andromedanebel?",
+    "antworten": [
+      "Dass der «Andromedanebel» weit ausserhalb der Milchstrasse liegt — also eine eigene Galaxie ist und das Universum aus unzähligen Galaxien besteht."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Hubble fand in Andromeda pulsierende Cepheiden-Sterne, deren Perioden-Leuchtkraft-Beziehung Distanzmessungen erlaubt — das Ergebnis lag weit jenseits jeder plausiblen Milchstrassengrösse. Damit war die «Grosse Debatte» über die Natur der Spiralnebel entschieden. Wenige Jahre später zeigte Hubble zudem, dass sich die Galaxien voneinander entfernen.",
+    "quelle": "Carnegie Observatories"
+  },
+  {
+    "id": "geschichte-mythologie-016",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 1,
+    "typ": "wahr-falsch",
+    "frage": "Juri Gagarin war 1961 der erste Mensch im Weltall.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 0,
+    "erklaerung": "Am 12. April 1961 umrundete der sowjetische Kosmonaut Juri Gagarin in der Wostok 1 einmal die Erde — der Flug dauerte 108 Minuten. Der Erfolg löste in den USA einen Schock aus und beschleunigte das Apollo-Programm. Der 12. April wird bis heute als Internationaler Tag der bemannten Raumfahrt begangen.",
+    "quelle": "ESA"
+  },
+  {
+    "id": "geschichte-mythologie-017",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 1,
+    "typ": "multiple-choice",
+    "frage": "Wann landeten zum ersten Mal Menschen auf dem Mond?",
+    "antworten": ["1957", "1969", "1972", "1981"],
+    "korrekt": 1,
+    "erklaerung": "Im Juli 1969 betraten Neil Armstrong und Buzz Aldrin mit Apollo 11 als erste Menschen den Mond, während Michael Collins im Orbit wartete. Bis 1972 folgten fünf weitere erfolgreiche Landungen; insgesamt standen zwölf Menschen auf dem Mond. 1957 markiert den Start von Sputnik 1, dem ersten Satelliten.",
+    "quelle": "NASA, Apollo-Programm"
+  },
+  {
+    "id": "geschichte-mythologie-018",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "multiple-choice",
+    "frage": "Wofür ist die Astronomin Henrietta Leavitt bekannt?",
+    "antworten": [
+      "Sie entdeckte den Uranus",
+      "Sie fotografierte als Erste ein Schwarzes Loch",
+      "Sie fand die Perioden-Leuchtkraft-Beziehung der Cepheiden-Sterne",
+      "Sie entwickelte das erste Spiegelteleskop"
+    ],
+    "korrekt": 2,
+    "erklaerung": "Leavitt entdeckte um 1912 am Harvard-Observatorium, dass die Pulsationsperiode von Cepheiden direkt ihre wahre Leuchtkraft verrät. Damit wurden diese Sterne zu «Standardkerzen» für Distanzmessungen weit über die Milchstrasse hinaus. Hubbles Nachweis, dass Andromeda eine eigene Galaxie ist, beruhte unmittelbar auf ihrer Beziehung.",
+    "quelle": "Harvard College Observatory"
+  },
+  {
+    "id": "geschichte-mythologie-019",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 3,
+    "typ": "karteikarte",
+    "frage": "Warum wurde 1582 der gregorianische Kalender eingeführt?",
+    "antworten": [
+      "Der julianische Kalender war gegenüber dem Sonnenjahr um rund 11 Minuten pro Jahr zu lang, sodass sich der Frühlingsbeginn über die Jahrhunderte um zehn Tage verschoben hatte. Die Reform strich zehn Tage und verfeinerte die Schaltjahresregel."
+    ],
+    "korrekt": 0,
+    "erklaerung": "Auf den 4. Oktober 1582 folgte direkt der 15. Oktober. Die neue Regel lässt Säkularjahre nur dann Schaltjahre sein, wenn sie durch 400 teilbar sind — darum war 2000 ein Schaltjahr, 1900 aber nicht. Protestantische und orthodoxe Länder übernahmen die katholische Reform teils erst Jahrhunderte später.",
+    "quelle": "Britannica"
+  },
+  {
+    "id": "geschichte-mythologie-020",
+    "thema": "geschichte-mythologie",
+    "schwierigkeit": 2,
+    "typ": "wahr-falsch",
+    "frage": "Alle 88 Sternbildnamen stammen aus der griechischen Mythologie.",
+    "antworten": ["Wahr", "Falsch"],
+    "korrekt": 1,
+    "erklaerung": "Nur knapp die Hälfte der Sternbilder geht auf die 48 antiken des Ptolemäus zurück, und viele davon haben noch ältere, babylonische Wurzeln. Die Sternbilder des Südhimmels wurden erst in der Neuzeit eingeführt: um 1600 von niederländischen Seefahrern und im 18. Jahrhundert von Lacaille, der ihnen nüchterne Namen wie Mikroskop, Pendeluhr oder Oktant gab.",
+    "quelle": "IAU, The Constellations"
+  }
+]
